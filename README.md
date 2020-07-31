@@ -2,5 +2,6 @@
 So there several steps:
 1. Go to https://www.desmos.com/calculator
 2. In a field paste f\left(x\right)=\left(\sin\left(k+x\right)\cdot\cos\left(x\right),\sin\left(k+x\right)\cdot\sin\left(x\right)\right)
-3. Add slider "k"
+3. Add slider "k". I prefer choose play indefinitely in settings.
 4. And finally assign funtion with some value to a letter. For example, A=f(3), B=f(pi/4) and so on.
+5. Enjoy.
