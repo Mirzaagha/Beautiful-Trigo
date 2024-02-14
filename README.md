@@ -6,3 +6,4 @@ So there are several steps:
 4. And finally assign a function with some value to a letter. For example, A=f(3), B=f(pi/4) and so on.
 5. Enjoy.  
  
+ 
