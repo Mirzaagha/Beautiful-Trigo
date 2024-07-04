@@ -1,4 +1,4 @@
-   ## Inspired by video https://www.youtube.com/watch?v=snHKEpCv0Hk I have created a simple function for everyone to check in Desmos
+## Inspired by video https://www.youtube.com/watch?v=snHKEpCv0Hk I have created a simple function for everyone to check in Desmos
 So there are several steps:
 1. Go to https://www.desmos.com/calculator
 2. In a field paste f\left(x\right)=\left(\sin\left(k+x\right)\cdot\cos\left(x\right),\sin\left(k+x\right)\cdot\sin\left(x\right)\right)
